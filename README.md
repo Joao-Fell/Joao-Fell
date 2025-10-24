@@ -1,4 +1,4 @@
-# 👨‍💻 Joao Felipe 
+# 👨‍💻 João Felipe 
 
 **`Desenvolvedor Front-End`**
 
